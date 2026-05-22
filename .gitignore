@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# C++
+*.out
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+dist/
+bin/
